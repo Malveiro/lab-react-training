@@ -1,0 +1,56 @@
+.person {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.details {
+    margin-left: 50px;
+    margin-top: 8px;
+}
+.greets {
+    border-style: solid;
+    border-width: 2px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.random {
+    border-style: solid;
+    border-width: 2px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.box {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-width: 2px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.title {
+    margin-left: 10px;
+}
