@@ -54,3 +54,18 @@
 .title {
     margin-left: 10px;
 }
+
+.creditCard {
+    border-style: solid;
+    height: 200px;
+    width: 400px;
+    border-radius: 25px;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 320px;
+}
